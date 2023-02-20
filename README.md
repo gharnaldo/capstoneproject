@@ -8,4 +8,4 @@ This Project aims to provide useful information to analysts as well as for the i
 
 ***
 
-For more information please visit the following [file]().
+For more information please visit the following [file](https://github.com/gharnaldo/capstoneproject/blob/main/Capstone%20Project%20Template.ipynb).
